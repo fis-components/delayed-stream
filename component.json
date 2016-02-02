@@ -1,0 +1,10 @@
+{
+    "name": "delayed-stream",
+    "description": "Buffers events from a stream until you are ready to handle them.",
+    "repos": "https://github.com/felixge/node-delayed-stream.git",
+    "main": "lib/delayed_stream",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.0"
+}
